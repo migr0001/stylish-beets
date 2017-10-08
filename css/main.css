@@ -23,7 +23,7 @@ a {
 }
 
 a:hover {
-  color: #8f2440;
+  color: #3f1622;
   text-decoration: none;
 }
 
@@ -46,5 +46,9 @@ p {
 }
 
 .name {
-  font-size: 0.8rem;
+  font-size: .8rem;
+}
+
+.lower-greek {
+  list-style-type: lower-greek;
 }
